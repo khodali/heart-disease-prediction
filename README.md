@@ -197,20 +197,5 @@ It is not a medical diagnostic tool and should not be used for clinical decision
 
 ## Author
 
-Developed by **Your Name**
-
+Developed by **Ali reza ghani**
 Machine Learning / Data Science Portfolio Project
-
-
----
-
-# نکته مهم درباره README
-
-در این README چند جای قابل شخصی‌سازی هست:
-
-## 1. نام repository
-
-این خط را بعداً عوض می‌کنیم:
-
-```bash
-git clone https://github.com/your-username/heart-disease-prediction.git
