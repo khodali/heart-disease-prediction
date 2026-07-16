@@ -1,7 +1,0 @@
-Model,Accuracy,Prediction,Recall,F1-Score
-Logistic Regression,0.8859,0.8857,0.9118,0.8986
-DecisionTreeClassifier,0.7772,0.8211,0.7647,0.7919
-Random Forest,0.8804,0.8922,0.8922,0.8922
-KNN,0.8804,0.9,0.8824,0.8911
-SVM,0.8696,0.8679,0.902,0.8846
-XGBClassifier,0.8587,0.8878,0.8529,0.87
