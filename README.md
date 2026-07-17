@@ -135,8 +135,8 @@ Then open the local URL shown in the terminal.
 Usually:
 
 text
-http://localhost:8501
 
+https://heart-disease-prediction-e7na.onrender.com
 ---
 
 ## Deployment
