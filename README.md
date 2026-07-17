@@ -198,11 +198,7 @@ It is not a medical diagnostic tool and should not be used for clinical decision
 ## Author
 
 Developed by **Ali reza ghani**
-<<<<<<< HEAD
-Machine Learning / Data Science Portfolio Project
-=======
-
 Machine Learning / Data Science Portfolio Project
 
 
->>>>>>> abbecb0 (deploy: prepare Streamlit app for deployment)
+
