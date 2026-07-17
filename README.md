@@ -98,7 +98,7 @@ Depending on your local structure, the model file may also be placed inside a `m
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/khodali/heart-disease-prediction.git
 cd heart-disease-prediction
 
 Create and activate a virtual environment:
