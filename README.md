@@ -33,7 +33,7 @@ The application allows users to input clinical features such as age, sex, chest 
 ## Machine Learning Model
 
 The final model used in this application is a:
-```text
+
 Tuned Random Forest Classifier
 
 The trained model is loaded from a serialized `.pkl` file using `joblib`.
@@ -198,4 +198,11 @@ It is not a medical diagnostic tool and should not be used for clinical decision
 ## Author
 
 Developed by **Ali reza ghani**
+<<<<<<< HEAD
 Machine Learning / Data Science Portfolio Project
+=======
+
+Machine Learning / Data Science Portfolio Project
+
+
+>>>>>>> abbecb0 (deploy: prepare Streamlit app for deployment)
